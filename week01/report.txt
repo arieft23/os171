@@ -1,0 +1,9 @@
+Week01 is about :
+- cloning repository
+- moving to dirrectory using command "cd"
+- make folder and file
+- remove file
+- make and edit text file using vi and nano
+- pushing and pulling repository
+- learn ">" and ">>" operator
+ 

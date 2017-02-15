@@ -1,5 +1,4 @@
 #arief_tritomo
-
 Week00 adalah tentang:
 - mendaftarkan diri kedalam akun google
 - mendaftarkan diri kedalam github

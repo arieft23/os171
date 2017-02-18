@@ -1,26 +1,24 @@
 w01-170214-10-LR-Pengenalan HKI, From: Lecturer
 w01-170214-10-LR-Pengenalan HKI, From: Lecturer
 w01-170214-11-LR-Pengenalan scripting, From: Lecturer
-w01-170214-11-LR-Pengenalan scripting, From: Lecturer
 w01-170214-11-DS-Diskusi setelah kelas
-w01-170214-15-LR-Pengenalan Putty
+w01-170214-15-LR-Pengenalan Putty, From:
 https://www.youtube.com/watch?v=7YNd1tFJfwc
 https://www.youtube.com/watch?v=EUplDL4hSuc
-w01-170214-16-LR-Pengenalan Putty
+w01-170214-16-LR-Pengenalan Putty, From:
 https://www.youtube.com/watch?v=9Wbpq84F7YM
 w01-170215-16-PS-Mengerjakan task01
 w01-170215-17-PS-Mengerjakan task01
 w01-170215-17-PS-Mengerjakan task01
 w01-170215-18-PS-Mengerjakan task01
 w01-170215-18-PS-Mengerjakan task01
-w01-170215-19-LR-Trik Putty SSH
+w01-170215-19-LR-Trik Putty SSH, From:
 https://tersetalk.wordpress.com/2012/04/14/ssh-with-no-password-and-tunnels/
-w01-170215-19-LR-Trik Putty SSH
+w01-170215-19-LR-Trik Putty SSH, From:
 https://www.tunnelsup.com/ssh-without-password/
 w01-170216-10-LR-Demo Server Badak, From: Lecturer
 w01-170216-10-LR-Demo Server Badak, From: Lecturer
-w01-170216-11-LR-Pengenalan Sistem Operasi, From: Lecturer
-w01-170216-11-LR-Pengenalan Sistem Operasi, From: Lecturer
+w01-170216-11-LR-Demo Scripting, From: Lecturer
 w01-170216-11-DS-Diskusi setelah kelas
 w01-170216-14-PS-Mengerjakan task01
 w01-170216-19-DS-Discuss Scripting

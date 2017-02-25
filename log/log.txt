@@ -23,3 +23,24 @@ w01-170216-11-DS-Diskusi setelah kelas
 w01-170216-14-PS-Mengerjakan task01
 w01-170216-19-DS-Discuss Scripting
 w01-170218-12-PS-Merngerjakan LOG
+w02-170221-10-LR-About: Pengenalan encryption and c programming, From: Lecturer
+w02-170221-10-LR-About: Pengenalan encryption and c programming, From: Lecturer
+w02-170221-11-LR-About: Pengenalan encryption and c programming, From: Lecturer
+w02-170221-11-LR-About: Pengenalan encryption and c programming, From: Lecturer
+w02-170221-20-LR-About: Pengenalan encryption and decryption, From:
+https://www.youtube.com/watch?v=BEb_AnPWPwY
+w02-170223-10-PS-About: Mengerjakan task week02
+w02-170223-10-PS-About: Mengerjakan task week02
+w02-170223-11-PS-About: Mengerjakan task week02
+w02-170223-11-PS-About: Mengerjakan task week02
+w02-170223-12-PS-About: Mengerjakan task week02
+w02-170223-12-PS-About: Mengerjakan task week02
+w02-170223-13-PS-About: Mengerjakan task week02
+w02-170223-13-PS-About: Mengerjakan task week02
+w02-170223-14-PS-About: Mengerjakan task week02
+w02-170224-19-DS-Discuss encryption and c programming
+w02-170224-19-DS-Discuss encryption and c programming
+w02-170224-20-DS-Discuss encryption and c programming
+w02-170225-11-PS-About: Mengerjakan task week02
+w02-170225-12-PS-About: Mengerjakan task week02
+w02-170223-12-PS-About: Mengerjakan task week02 dan log

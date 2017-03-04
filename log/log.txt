@@ -44,3 +44,22 @@ w02-170224-20-DS-Discuss encryption and c programming
 w02-170225-11-PS-About: Mengerjakan task week02
 w02-170225-12-PS-About: Mengerjakan task week02
 w02-170223-12-PS-About: Mengerjakan task week02 dan log
+w03-170228-10-LR-About: Pengenalan BIOS, From: Lecturer
+w03-170228-10-LR-About: Pengenalan BIOS, From: Lecturer
+w03-170228-11-LR-About: Pengenalan BIOS, From: Lecturer
+w03-170228-11-LR-About: Pengenalan BIOS, From: Lecturer
+w03-170302-10-LR-About: Pengenalan BIOS, From: Lecturer
+w03-170302-10-LR-About: Pengenalan BIOS, From: Lecturer
+w03-170302-11-LR-About: addressing, From: Lecturer
+w03-170302-11-LR-About: addressing, From: Lecturer
+w03-170303-19-DS-About: BIOS
+w03-170303-19-DS-About: tentang sudo dan su
+w03-170303-20-DS-About: tentang sudo dan su
+w03-170303-20-DS-About: Addressing
+w03-170304-02-PS-About: Mengerjakan task week03
+w03-170304-03-PS-About: Mengerjakan task week03
+w03-170304-03-PS-About: Mengerjakan task week03
+w03-170304-04-PS-About: Mengerjakan task week03
+w03-170304-04-PS-About: Mengerjakan task week03
+w03-170304-05-PS-About: Mengerjakan task week03
+

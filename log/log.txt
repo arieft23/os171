@@ -62,4 +62,33 @@ w03-170304-03-PS-About: Mengerjakan task week03
 w03-170304-04-PS-About: Mengerjakan task week03
 w03-170304-04-PS-About: Mengerjakan task week03
 w03-170304-05-PS-About: Mengerjakan task week03
-
+w04-170307-11-LR-Addressing and Memory, From:
+https://www.youtube.com/watch?v=8_dDcNzogSg
+https://www.youtube.com/watch?v=TcAbMLOfskk
+w04-170307-11-LR-Memory, From:
+https://www.youtube.com/watch?v=TcAbMLOfskk
+w04-170307-11-PS-Mengerjakan task week04
+w04-170307-12-DS-About: Addressing
+w04-170307-17-LR- Big Endian and Little Endian
+w04-170307-17-LR- Big Endian and Little Endian, From:
+https://www.youtube.com/watch?v=JrNF0KRAlyo
+https://www.youtube.com/watch?v=Pq_tZVq679E
+w04-170307-18-LR- Idea of Computation, From: 200-Stephen-Wolfram-Computing-a-theory-of-everything.mp4
+w04-170307-18-LR- Idea of Computation, From: 200-Stephen-Wolfram-Computing-a-theory-of-everything.mp4
+w04-170307-19-LR- Systemd, From: 324-why-systemd.mp4
+w04-170307-23-PS-Mengerjakan task week04
+w04-170308-22-LR- Demo week4 global char, From:
+00-global-char.c
+01-global-char.c
+02-global-char.c
+w04-170309-10-LR- Membahas demo week04, From: Lecturer
+w04-170309-10-LR- Membahas demo week04, From: Lecturer
+w04-170309-11-LR- Membahas demo week04, From: Lecturer
+w04-170309-11-LR- Membahas demo week04, From: Lecturer
+w04-170309-11-DS- Diskusi setelah kelas
+w04-170310-19-DS- About: demo week04
+w04-170310-19-PS- Mengerjakan week04
+w04-170310-20-PS- Mengerjakan week04
+w04-170310-20-PS- Mengerjakan week04
+w04-170310-21-PS- Mengerjakan week04
+w04-170310-21-PS- Mengerjakan week04

@@ -1,0 +1,25 @@
+w06-170410-20-LR-pengertian dan cara kerja fork, From:
+- http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html
+- http://stackoverflow.com/questions/32810981/fork-function-in-c
+- https://www.youtube.com/watch?v=xVSPv-9x3gk
+w06-170410-20-LR-pengertian dan cara kerja fork, From:
+- https://www.youtube.com/watch?v=PwxTbksJ2fo
+- https://www.youtube.com/watch?v=_kUiH8DG-Ao
+w06-170410-21-PS-PR mengenai Fork
+w06-170410-21-PS-PR mengenai Fork
+w06-170410-22-PS-PR mengenai Fork
+w06-170410-22-LR-Membaca materi Process and Thread, From: Slide Bahan Ajar Lama
+w06-170411-10-LR-Process and Thread, From: Lecturer
+w06-170411-10-LR-Process and Thread, From: Lecturer
+w06-170411-11-LR-Demo mengenai Process and Thead, From: Lecturer
+w06-170411-11-LR-Demo mengenai Process and Thead, From: Lecturer
+w06-170412-21-LR-Membaca materi Process Synchronization, From: Slide Bahan Ajar Lama
+w06-170413-10-LR-Processes Synchronization, From: Lecturer
+w06-170413-10-LR-Processes Synchronization, From: Lecturer
+w06-170413-11-LR-Demo mengenai Processes Synchronization, From: Lecturer
+w06-170413-11-LR-Demo mengenai Processes Synchronization, From: Lecturer
+w06-170414-18-PS-Mengerjakan task week06
+w06-170414-19-PS-Mengerjakan task week06
+w06-170414-19-PS-Mengerjakan task week06
+w06-170414-20-PS-Mengerjakan task week06
+w06-170414-20-PS-Mengerjakan task week06
